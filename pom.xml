@@ -18,8 +18,8 @@
 
     <repositories>
         <repository>
-            <id>Stem Builds Repository</id>
-            <url>https://builds.app.stem-system.de/plugin/repository/everything/</url>
+            <id>MirraNET Repository</id>
+            <url>https://builds.mirranet.de/plugin/repository/everything/</url>
         </repository>
     </repositories>
     <build>
@@ -39,8 +39,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.0.2</version>
                 <configuration>
-                    <source>11</source>
-                    <target>11</target>
+                    <source>21</source>
+                    <target>21</target>
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
